@@ -10,7 +10,7 @@
 
 ### 新的生命周期图谱
 
-![react-leftCycle](./img/react-lefecycle2020-04-06.jpg)
+![react-leftCycle](https://raw.githubusercontent.com/pengpeng9413/React_Base/master/img/react-lefecycle2020-04-06.jpg)
 
 ### 新增的两个较为常用的生命周期
 
